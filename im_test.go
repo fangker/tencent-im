@@ -14,15 +14,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/tencent-im"
-	"github.com/dobyte/tencent-im/account"
-	"github.com/dobyte/tencent-im/group"
-	"github.com/dobyte/tencent-im/operation"
-	"github.com/dobyte/tencent-im/private"
-	"github.com/dobyte/tencent-im/profile"
-	"github.com/dobyte/tencent-im/push"
-	"github.com/dobyte/tencent-im/recentcontact"
-	"github.com/dobyte/tencent-im/sns"
+	im "github.com/fangker/tencent-im"
+	"github.com/fangker/tencent-im/account"
+	"github.com/fangker/tencent-im/group"
+	"github.com/fangker/tencent-im/operation"
+	"github.com/fangker/tencent-im/private"
+	"github.com/fangker/tencent-im/profile"
+	"github.com/fangker/tencent-im/push"
+	"github.com/fangker/tencent-im/recentcontact"
+	"github.com/fangker/tencent-im/sns"
 )
 
 const (

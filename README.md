@@ -2,6 +2,10 @@
 
 点击查看 [官方文档](https://cloud.tencent.com/product/im/developer)
 
+
+## PS
+- 原项目很久没更新, 实用主义一下
+
 ## 如何使用
 
 ```shell script
